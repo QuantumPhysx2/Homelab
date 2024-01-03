@@ -33,3 +33,6 @@ Follow the below steps to setup DNS on a Windows Server:
 -->
 
 ## 2.3 Dynamic Host Control Protocol (DHCP)
+<!--
+After installing the DHCP package and creating a scope, you must Authorize the service.
+-->
